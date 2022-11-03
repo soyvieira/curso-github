@@ -1,5 +1,4 @@
-
-
+#Files
 /node_modules
 .env.local
 g.txt
