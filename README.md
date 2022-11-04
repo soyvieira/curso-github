@@ -1,10 +1,10 @@
 ![Topo do site](https://primeiraclassetour.com.br/wp-content/uploads/2022/10/cropped-cropped-opa2-1.jpg)
 
-[Bem vindo](#bem-vindo-ao-curso-de-git-hub-para-teens)
-[Módulos](#módulos)
-[Rede Social](#rede-social)
-[Adicionando trechos de código](#adicionando-trechos-de-código)
-[Adicionando uma task list](#adicionando-uma-task-list)
+[Bem vindo](#bem-vindo-ao-curso-de-git-hub-para-teens) |
+[Módulos](#módulos) |
+[Rede Social](#rede-social) |
+[Adicionando trechos de código](#adicionando-trechos-de-código) |
+[Adicionando uma task list](#adicionando-uma-task-list) |
 
 # Bem vindo ao curso de git hub para teens!
 Nesse curso você vai dominar todo git e github do zero ao profissional. Nesta página, iremos criar o conteúdo sobre como formatar seu arquivo markdown. Toda a documentação pode ser [acessada aqui](https://www.markdownguide.org/extended-syntax/).
