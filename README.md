@@ -12,8 +12,8 @@ Para fazer listas não ordenadas, bastaca colocar o *, espaço e o item da lista
 Para fazer listas ordenadas, bastaca colocar o número, ponto e o item da lista. Exemplo:
 
 1. Entendendo o que é git
-    a. Para fazer um sub item de lista ordenada
-    b. use o TAB duas vez para fazer a sublista
+      a. Para fazer um sub item de lista ordenada
+      b. use o TAB duas vez para fazer a sublista
 2. Aprendendo sobre repositórios
 3. Trabalhando com branches
 
