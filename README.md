@@ -1,6 +1,9 @@
 ![Topo do site](https://primeiraclassetour.com.br/wp-content/uploads/2022/10/cropped-cropped-opa2-1.jpg)
+
+
 # Bem vindo ao curso de git hub para teens!
 Nesse curso você vai dominar todo git e github do zero ao profissional. Nesta página, iremos criar o conteúdo sobre como formatar seu arquivo markdown. Toda a documentação pode ser [acessada aqui](https://www.markdownguide.org/extended-syntax/).
+
 ## Módulos
 
 Para fazer listas não ordenadas, bastaca colocar o *, espaço e o item da lista. Exemplo:
@@ -66,5 +69,10 @@ Você pode usar 3 crases antes e depois para encapsular o código
 Propriedade | Descrição
 ------------|----------
 name | Para informar o nome do usuário
-size | Para definir o tamanho do campo
-onPress | Funçaõ chamada quando clicar no botão
+size | Para definir o **tamanho** do campo
+onPress | Função chamada quando clicar no botão´
+imagem | ![exemplo de imagem](https://primeiraclassetour.com.br/wp-content/uploads/2022/10/cropped-cropped-cropped-Logo_Primeira_Classe_Tour-e1665710053455.png)
+
+### Menu e links internos (single page aplication)
+
+
