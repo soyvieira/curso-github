@@ -59,3 +59,12 @@ Você pode usar 3 crases antes e depois para encapsular o código
 - [ ] Versão 1.0
 - [ ] Versão 2.0
 - [x] Versão 3.0
+
+
+### Trabalhando com tabelas
+
+Propriedade | Descrição
+------------|----------
+name | Para informar o nome do usuário
+size | Para definir o tamanho do campo
+onPress | Funçaõ chamada quando clicar no botão
