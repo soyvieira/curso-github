@@ -1,6 +1,6 @@
 ![Topo do site](https://primeiraclassetour.com.br/wp-content/uploads/2022/10/cropped-cropped-opa2-1.jpg)
 # Bem vindo ao curso de git hub para teens!
-Nesse curso você vai dominar todo git e github do zero ao profissional.
+Nesse curso você vai dominar todo git e github do zero ao profissional. Nesta página, iremos criar o conteúdo sobre como formatar seu arquivo markdown. Toda a documentação pode ser [acessada aqui](https://www.markdownguide.org/extended-syntax/).
 ## Módulos
 
 Para fazer listas não ordenadas, bastaca colocar o *, espaço e o item da lista. Exemplo:
@@ -33,11 +33,17 @@ _Aqui você pode acessar nossas redes sociais_
 
 ### Adicionando trechos de código
 
-Você pode usar 3 asteríscos antes e depois para encapsular o código
+Você pode usar 3 crases antes e depois para encapsular o código
 
-***
+``` css
 .title{
   background-color: red;
   color: yellow;
 }
-***
+```
+
+``` html
+<h5>
+  Aqui temos um título H5
+</h5>
+```
