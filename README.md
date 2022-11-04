@@ -53,3 +53,9 @@ Você pode usar 3 crases antes e depois para encapsular o código
   return 'Bem vindo: ' + name;
  }
 ```
+
+### Adicionando uma task list
+
+- [ ] Versão 1.0
+- [ ] Versão 2.0
+- [x] Versão 3.0
