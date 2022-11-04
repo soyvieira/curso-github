@@ -12,8 +12,8 @@ Para fazer listas não ordenadas, bastaca colocar o *, espaço e o item da lista
 Para fazer listas ordenadas, bastaca colocar o número, ponto e o item da lista. Exemplo:
 
 1. Entendendo o que é git
-      a. Para fazer um sub item de lista ordenada
-      b. use o TAB duas vez para fazer a sublista
+      1. Para fazer um sub item de lista ordenada
+      2. use o TAB duas vez para fazer a sublista
 2. Aprendendo sobre repositórios
 3. Trabalhando com branches
 
@@ -25,3 +25,19 @@ _Aqui você pode acessar nossas redes sociais_
 
 **ATENÇÃO: Você pode colocar formatação de texto dentro dos colchetes do link que você quer exibir**
 
+### Adicionando blockquote
+
+>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+>
+>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+### Adicionando trechos de código
+
+Você pode usar 3 asteríscos antes e depois para encapsular o código
+
+***
+.title{
+  background-color: red;
+  color: yellow;
+}
+***
