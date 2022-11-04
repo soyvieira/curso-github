@@ -47,3 +47,9 @@ Você pode usar 3 crases antes e depois para encapsular o código
   Aqui temos um título H5
 </h5>
 ```
+
+``` js
+ function showName(name){
+  return 'Bem vindo: ' + name;
+ }
+```
